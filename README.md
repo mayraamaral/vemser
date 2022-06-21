@@ -1,5 +1,4 @@
 # Vem Ser
-Mayra Amaral de Miranda Cunha  
   
 Repositório contendo todos os exercícios realizados durante o programa.  
   
