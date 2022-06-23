@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.container {
+  margin: auto;
+  max-width: 1200px;
+}
+
+header, footer {
+  background-color: red;
+  height: 100px;
+  /* padding: 10px 0; */
+}
+
+header, table {
+  margin: 0 0;
+}
+
+nav a, small {
+  padding: 0 10px;
+  color:white;
+}
+
+.logo img {
+  background-color: white;
+  padding: 10px;
+  border-radius: 100%;
+  /* margin: 15px 0; */
+}
+
+.logo small {
+  line-height: 100px;
+  padding: 0 50px 0 25px;
+}
+
+.galeria {
+  text-align: center;
+  padding: 40px 0;
+}
+
+.imagens {
+  width: 100%;
+  padding: 0 25%;
+}
+
+.imagens img {
+  padding-bottom: 15px;
+}
+
+.imagens-imagem {
+  border: solid black 1px;
+  height: 300px;
+  border-radius: 10%;
+}
+
+.espaco {
+  width: 25px;
+}
+
+.galeria h1 {
+  padding: 10px 0;
+}
+
+.imagens tr {
+  border: solid 1px;
+}
+
+.texto-principal, .texto-principal a {
+  background-color: #333;
+  padding: 20px 0;
+  color: white;
+}
+
+.texto-principal p {
+  padding: 10px 0;
+  text-align: justify;
+}
+
+.mapa {
+  text-align: center;
+  padding: 40px 0;
+}
+
+.mapa h2 {
+  padding: 10px 0;
+}
+
+footer ul a, footer li, footer address {
+  color: white;
+}
+
+footer address {
+  padding-top: 10px;
+}
+
+footer {
+  padding: 20px 10px;
+}
+
