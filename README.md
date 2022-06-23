@@ -2,7 +2,7 @@
   
 Repositório contendo todos os exercícios realizados durante o programa.  
   
-## Módulo HTML
+## Módulo HTML e CSS
 **Aula 01 (Código):**
 - Exercício 01 (Home): [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex1/index.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex1/)  
 - Exercício 02 (Sobre): [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex1/sobre.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex1/sobre.html)
