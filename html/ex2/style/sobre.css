@@ -59,6 +59,10 @@ nav a, small {
   color: #666;
 }
 
+.sobre a {
+  color: #666;
+}
+
 footer ul a, footer li, footer address {
   color: white;
 }
