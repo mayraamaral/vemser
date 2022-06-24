@@ -34,10 +34,6 @@ main {
   color: white;
 }
 
-header {
-  background-color: black;
-}
-
 ul {
   display: flex;
   gap: 50px;

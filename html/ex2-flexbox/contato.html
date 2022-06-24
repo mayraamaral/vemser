@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS - Exercício - Aula 02</title>
+  <link rel="stylesheet" href="./style/contato.css">
+</head>
+<body>
+  <header>
+
+      <div class="logo">
+        <a href="./"><img width="50" src="./images/shield.png" alt="logo"></a>
+        <small>Agents of Shield</small>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="./">Home</a></li>
+          <li><a href="./sobre.html">Sobre</a></li>
+          <li><a href="./contato.html">Contato</a></li>
+        </ul>
+      </nav>
+
+  </header>
+
+  <section class="contato">
+    <div class="container">
+      <h1>Contato</h1>
+      <div class="form">
+        <form action="">
+          <label for="nome">Digite seu nome completo:</label> <br>
+          <input name="nome" type="text" placeholder="Nome completo">
+          <br><br>
+          <label for="email">Digite seu e-mail:</label> <br>
+          <input name="email" type="email" placeholder="E-mail">
+          <br><br>
+          <label for="questions">Qual o motivo do contato?</label> <br>
+          <select name="questions" id="questions">
+            <option value="q1">Gosto mais da Skye</option>
+            <option value="q2">Gosto mais da May</option>
+            <option value="q3">Gosto mais do Coulson</option>
+            <option value="q4">Não gosto de nenhum personagem</option>
+          </select>
+          <br><br>
+          <label for="mensagem">Digite sua mensagem:</label> <br>
+          <textarea name="mensagem" id="mensagem" rows="10">Mensagem</textarea>
+          <br><br>
+          <button type="submit">Salvar</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+
+  <footer>
+    <div class="container">
+      <ul>
+        <li><a href="./">Home</a></li>
+        <li><a href="./sobre.html">Sobre</a></li>
+        <li><a href="./contato.html">Contato</a></li>
+      </ul>
+      <address>1290 6th Ave, New York</address>
+    </div>
+  </footer>
+  
+</body>
+</html>

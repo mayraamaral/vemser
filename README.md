@@ -11,5 +11,10 @@ Repositório contendo todos os exercícios realizados durante o programa.
 **Aula 02 (CSS):**
 - Exercício 01 (Home): [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex2/index.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2/)  
 - Exercício 02 (Sobre): [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex2/sobre.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2/sobre.html)
-- Exercício 03 (Contato): [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex2/contato.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2/contato.html)
+- Exercício 03 (Contato): [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex2/contato.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2/contato.html)  
   
+
+**Aula 03 (Flexbox):**
+- Exercício 01 (Parecido com Youtube): [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex2/index.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2/)  
+- Exercício 02 (Sobre): [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex2/sobre.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2/sobre.html)
+- Exercício 03 (Contato): [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex2/contato.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2/contato.html)  
