@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+main {
+  max-width: 1200px;
+  margin: auto;
+  padding-top: 40px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.menu {
+  margin: auto;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+}
+
+.menu p {
+  color: white;
+}
+
+header {
+  background-color: black;
+}
+
+ul {
+  display: flex;
+  gap: 50px;
+  justify-content: space-around;
+}
+
+ul a {
+  color: white;
+  text-decoration: none;
+}
+
+ul a:hover {
+  background-color: white;
+  color: black;
+}
+
+.video-sem-titulo {
+  background-color: #C4C4C4;
+  width: 535px;
+  height: 324px;
+}
+
+.video-e-titulo p {
+  padding-top: 10px;
+  font-size: 18px;
+}
+
+.video-menu-lateral {
+  width: 165px;
+  height: 120px;
+  background-color: #C4C4C4;
+}
+
+.video-lista {
+  margin-left: 100px;
+}
+
+.video-e-legenda p {
+  padding: 5px 0 10px 0;
+}
+
