@@ -21,6 +21,11 @@ main {
   flex-wrap: wrap;
 }
 
+header {
+  background-color: black;
+}
+
+
 .menu {
   margin: auto;
   max-width: 1200px;
