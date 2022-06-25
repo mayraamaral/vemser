@@ -1,32 +1,32 @@
-# Vem Ser
+# Vem Ser DBC ☄️
   
-Repositório contendo todos os exercícios realizados durante o programa.  
+📚 Repositório contendo todos os exercícios realizados durante o programa.  
 
 ## Módulo HTML e CSS
-**Aula 01 (HTML):**
+**✅ Aula 01 (HTML):**
 
 | Exercício | Título | Código | Publicado no Github |
 | --------- | ------ | ------ | ------------------- |
-| 01 | Home | [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex1/index.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex1/) |
-| 02 | Sobre | [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex1/sobre.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex1/sobre.html) |
-| 03 | Contato | [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex1/contato.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex1/contato.html) |  
+| 01 | Home | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex1/index.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex1/) |
+| 02 | Sobre | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex1/sobre.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex1/sobre.html) |
+| 03 | Contato | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex1/contato.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex1/contato.html) |  
   
   
-**Aula 02 (CSS):**
+**✅ Aula 02 (CSS):**
 
 | Exercício | Título | Código | Publicado no Github |
 | --------- | ------ | ------ | ------------------- |
-| 01 | Home | [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex2/index.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2/) |
-| 02 | Sobre | [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex2/sobre.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2/sobre.html) |
-| 03 | Contato | [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex2/contato.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2/contato.html) |  
+| 01 | Home | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex2/index.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2/) |
+| 02 | Sobre | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex2/sobre.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2/sobre.html) |
+| 03 | Contato | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex2/contato.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2/contato.html) |  
   
-**Aula 03 (Flexbox):**
+**✅ Aula 03 (Flexbox):**
 
 | Exercício | Título | Código | Publicado no Github |
 | --------- | ------ | ------ | ------------------- |
-| 01 | Parecido com Youtube | [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex3/youtube.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex3/youtube.html)  |
-| 02 | Parecido com Instagram | [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex3/instagram.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex3/instagram.html) |
-| 03 - Extra | Home Notícias | [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex3/index.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex3/) |
-| 04 - Extra | Galeria | [Código](https://github.com/mayraamaral/vemser/blob/main/html/ex3/galeria.html) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex3/galeria.html) |
-| 05 - Extra | Exercício Aula 02 com Flexbox | [Código](https://github.com/mayraamaral/vemser/tree/main/html/ex2-flexbox) | [Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2-flexbox/) |  
+| 01 | Parecido com Youtube | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex3/youtube.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex3/youtube.html)  |
+| 02 | Parecido com Instagram | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex3/instagram.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex3/instagram.html) |
+| 03 - Extra | Home Notícias | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex3/index.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex3/) |
+| 04 - Extra | Galeria | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex3/galeria.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex3/galeria.html) |
+| 05 - Extra | Exercício Aula 02 com Flexbox | [Link - Código](https://github.com/mayraamaral/vemser/tree/main/html/ex2-flexbox) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2-flexbox/) |  
   
