@@ -34,4 +34,4 @@
   
 | Exercício | Título | Código | Publicado |
 | --------- | ------ | ------ | --------- |
-| 04 - Atv 01 | Site com base em layout Figma | [Link - Código](https://github.com/mayraamaral/vemser-frontend1) | [Link - Publicado no Vercel](https://vemser-frontend1.vercel.app/)
+| 04 - Atv 01 | Site Single Page baseado em layout Figma | [Link - Código](https://github.com/mayraamaral/vemser-frontend1) | [Link - Publicado no Vercel](https://vemser-frontend1.vercel.app/)
