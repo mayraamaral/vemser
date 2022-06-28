@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.menu {
+  display: grid;
+  grid-template-columns: auto auto;
+  height: 80px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header {
+  height: 80px;
+  background-color: black;
+}
+
+ul {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  justify-content: space-between;
+  width: 360px;
+}
+
+.menu p {
+  color: white;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: white;
+}
+
+.noticias {
+  margin-top: 30px;
+}
+
+.noticias {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.noticia-foto {
+  width: 300px;
+  height: 150px;
+  background-color: gray;
+}
+
+.noticia p {
+  margin-top: 10px;
+}
+
+.produtos {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+}
+
+.produtos {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.propaganda-foto {
+  height: 300px;
+  width: 300px;
+  border: solid 3px black
+}
+
+.produtos1 {
+  display: grid;
+}
+
+.produto-foto {
+  width: 120px;
+  height: 70px;
+  background-color: gray;
+}
+
+.produto {
+  width: 300px;
+  height: 70px;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  justify-content: flex-start;
+}
+
+.produto p {
+  align-self: center;
+  margin-left: 10px;
+}

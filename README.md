@@ -30,8 +30,17 @@
 | 04 - Extra | Galeria | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex3/galeria.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex3/galeria.html) |
 | 05 - Extra | Exercício Aula 02 com Flexbox | [Link - Código](https://github.com/mayraamaral/vemser/tree/main/html/ex2-flexbox) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex2-flexbox/) |  
   
-**✅ Aula 04 (Media Queries)**
+**✅ Aula 04 (Media Queries):**
   
 | Exercício | Título | Código | Publicado |
 | --------- | ------ | ------ | --------- |
 | 04 - Atv 01 | Site Single Page baseado em layout Figma | [Link - Código](https://github.com/mayraamaral/vemser-frontend1) | [Link - Publicado no Vercel](https://vemser-frontend1.vercel.app/)
+  
+**✅ Aula 05 (Grid):**
+  
+| Exercício | Título | Código | Publicado no Github |
+| --------- | ------ | ------ | ------------------- |
+| 01 | Home - Notícias | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex5/ex1/index.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex5/ex1/index.html)  |
+| 02 | Galeria | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex5/ex2/index.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex5/ex2/index.html) |
+| 03 | Parecido com Youtube | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex5/ex3/index.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex5/ex3/index.html) |
+| 04 | Parecido com Instagram | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex5/ex4/index.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex5/ex4/index.html) |
