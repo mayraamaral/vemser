@@ -34,7 +34,7 @@
   
 | Exercício | Título | Código | Publicado |
 | --------- | ------ | ------ | --------- |
-| 04 - Atv 01 | Site baseado em layout Figma | [Link - Código](https://github.com/mayraamaral/vemser-frontend1) | [Link - Publicado no Vercel](https://vemser-frontend1.vercel.app/) |
+| 04 - Atv 01 | Site baseado em layout Figma | [Link - Código](https://github.com/mayraamaral/vemser-frontend1) | [https://vemser-frontend1.vercel.app](https://vemser-frontend1.vercel.app/) |
   
 **✅ Aula 05 (Grid):**
   
@@ -49,10 +49,10 @@
   
 | Exercício | Título | Código | Publicado |
 | --------- | ------ | ------ | --------- |
-| 06 - Atv 02 | Site baseado em layout - Ecos | [Link - Código](https://github.com/mayraamaral/vemser-frontend2) | [Link - Publicado no Vercel](https://vemser-frontend2.vercel.app/) |  
+| 06 - Atv 02 | Site baseado em layout - Ecos | [Link - Código](https://github.com/mayraamaral/vemser-frontend2) | [https://vemser-frontend2.vercel.app](https://vemser-frontend2.vercel.app/) |  
   
 **Aula 07 (Bootstrap):**
   
 | Exercício | Título | Código | Publicado |
 | --------- | ------ | ------ | --------- |
-| 07 | Galeria | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex7/index.html) | [Link - Publicado no Vercel](https://mayraamaral.github.io/vemser/html/ex7/index.html) |
+| 07 | Galeria | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex7/index.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex7/index.html) |
