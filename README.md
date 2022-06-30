@@ -45,13 +45,13 @@
 | 03 | Parecido com Youtube | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex5/ex3/index.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex5/ex3/index.html) |
 | 04 | Parecido com Instagram | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex5/ex4/index.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex5/ex4/index.html) |
   
-**Aula 06 (Pseudoelementos):**
+**✅ Aula 06 (Pseudoelementos):**
   
 | Exercício | Título | Código | Publicado |
 | --------- | ------ | ------ | --------- |
 | 06 - Atv 02 | Site baseado em layout - Ecos | [Link - Código](https://github.com/mayraamaral/vemser-frontend2) | [vemser-frontend2.vercel.app](https://vemser-frontend2.vercel.app/) |  
   
-**Aula 07 (Bootstrap):**
+**✅ Aula 07 (Bootstrap):**
   
 | Exercício | Título | Código | Publicado |
 | --------- | ------ | ------ | --------- |
