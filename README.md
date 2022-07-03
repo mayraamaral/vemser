@@ -63,4 +63,4 @@
   
 | Exercício | Título | Código | Publicado |
 | --------- | ------ | ------ | --------- |
-| Final | Redesign do Linkedin usando layout Figma | [Link - Código](https://github.com/mayraamaral/vemser-frontend3-linkedin) | [https://vemser-linkedin.vercel.app](https://vemser-linkedin.vercel.app/) |  
+| Final | Redesign do Linkedin usando layout Figma | [Link - Código](https://github.com/mayraamaral/vemser-frontend3-linkedin) | [vemser-linkedin.vercel.app](https://vemser-linkedin.vercel.app/) |  
