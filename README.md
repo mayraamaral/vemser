@@ -55,4 +55,12 @@
   
 | Exercício | Título | Código | Publicado |
 | --------- | ------ | ------ | --------- |
-| 07 | Galeria | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex7/index.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex7/index.html) |
+| 07 | Galeria | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/html/ex7/index.html) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/html/ex7/index.html) |  
+  
+**✅ Aula 08:** apresentação da atividade passada na aula 06 (layout do Ecos).  
+  
+**✅ Aula 09 (Atividade final - HTML e CSS):**
+  
+| Exercício | Título | Código | Publicado |
+| --------- | ------ | ------ | --------- |
+| Final | Redesign do Linkedin usando layout Figma | [Link - Código](https://github.com/mayraamaral/vemser-frontend3-linkedin) | [https://vemser-linkedin.vercel.app](https://vemser-linkedin.vercel.app/) |  
