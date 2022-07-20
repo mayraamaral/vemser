@@ -2,19 +2,19 @@
   
 📚 Repositório contendo todos os exercícios realizados durante o programa.  
   
-## Módulo React
+## 3 - Módulo React
   
 ✅ **Aula 01 - Components**  
   
-| Exercício | Título | Código | Publicado no Github |
+| Exercício | Título | Código | Publicado |
 | --------- | ------ | ------ | ------------------- |
-| 01 | Home | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/react/ex1/home) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/react/ex1/home) |
-| 02 | Sobre | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/react/ex1/about) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/react/ex1/about) |
-| 03 | Contato | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/react/ex1/contact) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/react/ex1/contact) | 
-## Módulo JavaScript
+| 01 | Home | [Link - Código](https://github.com/mayraamaral/vemser/tree/main/react/ex1/src) | [vemser-react-ex1.vercel.app](https://vemser-react-ex1.vercel.app/) |
+| 02 | Sobre | [Link - Código](https://github.com/mayraamaral/vemser/tree/main/react/ex1/src) | [vemser-react-ex1.vercel.app/about](https://vemser-react-ex1.vercel.app/about) |
+| 03 | Contato | [Link - Código](https://github.com/mayraamaral/vemser/tree/main/react/ex1/src) | [vemser-react-ex1.vercel.app/contact](https://vemser-react-ex1.vercel.app/contact) | 
+## 2 - Módulo JavaScript
 As atividades desenvolvidas no módulo de JavaScript encontram-se no reposítorio [deste link](https://github.com/mayraamaral/vemser-js).
   
-## Módulo HTML e CSS
+## 1 - Módulo HTML e CSS
 **✅ Aula 01 (HTML):**
 
 | Exercício | Título | Código | Publicado no Github |

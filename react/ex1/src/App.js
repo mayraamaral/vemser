@@ -6,7 +6,7 @@ import Footer from './components/Footer'
 import Contact from './pages/Contact'
 
 function App() {
-  if(window.location.pathname === '/home'){
+  if(window.location.pathname === '/'){
     return <Home />
   } else if(window.location.pathname === '/about'){
     return <About />

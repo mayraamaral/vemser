@@ -6,7 +6,7 @@ const Footer = () => {
     <div className={styles.background}>
       <div className={styles.container}>
         <div>
-          <MenuItem link="/home" name="Home" />
+          <MenuItem link="/" name="Home" />
           <MenuItem link="/about" name="Contato" />
           <MenuItem link="/contact" name="Sobre" />
         </div>
