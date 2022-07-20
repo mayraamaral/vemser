@@ -1,20 +1,7 @@
-# Vem Ser DBC ☄️
+# Vem Ser DBC - Módulo HTML e CSS ☄️
   
-📚 Repositório contendo todos os exercícios realizados durante o programa.  
+📚 Repositório contendo todos os exercícios realizados durante o módulo.  
   
-## 3 - Módulo React
-  
-✅ **Aula 01 - Components**  
-  
-| Exercício | Título | Código | Publicado |
-| --------- | ------ | ------ | ------------------- |
-| 01 | Home | [Link - Código](https://github.com/mayraamaral/vemser/tree/main/react/ex1/src) | [vemser-react-ex1.vercel.app](https://vemser-react-ex1.vercel.app/) |
-| 02 | Sobre | [Link - Código](https://github.com/mayraamaral/vemser/tree/main/react/ex1/src) | [vemser-react-ex1.vercel.app/about](https://vemser-react-ex1.vercel.app/about) |
-| 03 | Contato | [Link - Código](https://github.com/mayraamaral/vemser/tree/main/react/ex1/src) | [vemser-react-ex1.vercel.app/contact](https://vemser-react-ex1.vercel.app/contact) | 
-## 2 - Módulo JavaScript
-As atividades desenvolvidas no módulo de JavaScript encontram-se no reposítorio [deste link](https://github.com/mayraamaral/vemser-js).
-  
-## 1 - Módulo HTML e CSS
 **✅ Aula 01 (HTML):**
 
 | Exercício | Título | Código | Publicado no Github |
