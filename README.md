@@ -2,6 +2,15 @@
   
 📚 Repositório contendo todos os exercícios realizados durante o programa.  
   
+## Módulo React
+  
+✅ **Aula 01 - Components**  
+  
+| Exercício | Título | Código | Publicado no Github |
+| --------- | ------ | ------ | ------------------- |
+| 01 | Home | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/react/ex1/home) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/react/ex1/home) |
+| 02 | Sobre | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/react/ex1/about) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/react/ex1/about) |
+| 03 | Contato | [Link - Código](https://github.com/mayraamaral/vemser/blob/main/react/ex1/contact) | [Link - Publicado no Github](https://mayraamaral.github.io/vemser/react/ex1/contact) | 
 ## Módulo JavaScript
 As atividades desenvolvidas no módulo de JavaScript encontram-se no reposítorio [deste link](https://github.com/mayraamaral/vemser-js).
   

@@ -1,0 +1,24 @@
+.logoImg {
+  width: 60px;
+}
+
+.name {
+  color: white;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logoContainer {
+  background-color: white;
+  width: 80px;
+  height: 80px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

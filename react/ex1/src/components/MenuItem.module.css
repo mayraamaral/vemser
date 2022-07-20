@@ -1,0 +1,10 @@
+.menuLink {
+  text-decoration: none;
+  margin-right: 40px;
+  color: white;
+}
+
+.menuLink:hover {
+  background-color: white;
+  color:red;
+}
